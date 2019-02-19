@@ -282,7 +282,6 @@ code connects the application to a particular channel within the network,
 ``mychannel``:
 
 .. code:: bash
-  const network = await gateway.getNetwork('mychannel');
 
   const network = await gateway.getNetwork('mychannel');
 
